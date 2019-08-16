@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v3.8.5">
+    <title>Intellect Africa Group</title>
+
+    
+
+   
+
+    <!-- Bootstrap core CSS -->
+    <link rel='shortcut icon' type='image/x-icon' href='/static/img/paverlogo.ico' />
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+    <link href="/static/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+
+    <style>
+    /* [1] The container */
+.img-hover-zoom {
+  height: 100%; /* [1.1] Set it as per your need */
+  overflow: hidden; /* [1.2] Hide the overflowing of child elements */
+}
+
+/* [2] Transition property for smooth transformation of images */
+.img-hover-zoom img {
+  transition: transform .5s ease;
+}
+
+/* [3] Finally, transforming the image when container gets hovered */
+.img-hover-zoom:hover img {
+  transform: scale(1.5);
+  border-color: orange;
+}	
+    </style>
+</head>
+<body style="font-family: 'Arial-Narrow';">
+
+
+	<div class="container-fluid" style="height: 80px; background-image: linear-gradient(135deg, black 70%, black 30%);">
+		<br>
+		<div class="row">
+			<div class="col-md-4">
+				<span class="fa fa-phone" style="color: white;">&nbsp + 27 11 083 7784</span>
+			</div>
+			<div class="col-md-4">
+				<span class="fa fa-envelope-o" style="color: white;">&nbsp&nbsp info@intellectafrica.group</span>
+			</div>
+			<div class="col-md-4" style="font-size: 30px; text-align: right;">
+				<a href="https://www.facebook.com/intellectafricagroup/" title="Facebook" target="_blank">
+					<span class="fa fa-facebook-square" style="color: white;"></span>
+				</a>
+
+				<a href="https://aboutme.google.com/u/0/?referer=gplus" title="Google +" target="_blank">
+					<span class="fa fa-google-plus-square" style="color: white;"></span>
+				</a>
+
+				<a href="https://twitter.com/group_intellect" title="Twitter" target="_blank">
+					<span class="fa fa-twitter-square"style="color: white;"></span>
+				</a>
+
+				<a href="https://www.youtube.com/?gl=ZA&tab=m1" title="YouTube" target="_blank">
+					<span class="fa fa-youtube-square" style="color: white;"></span>
+				</a>
+			</div>			
+		</div>	
+	</div>
+
+<div class="container">
+  <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white">
+  <a class="my-0 mr-md-auto font-weight-normal" href="/"><img alt="Brand" style=" width: 150px; height: 50px" src="/static/img/IAG.png"></a>
+  <nav class="my-2 my-md-0 mr-md-3">
+    <a class="p-2 text-dark" href="/"><span class="badge badge-danger">Home</span></a>
+    <a class="p-2 text-dark" href="about"><span class="badge badge-success">About</span></a>
+    <a class="p-2 text-dark" href="service"><span class="badge badge-warning">Group</span></a>
+    <a class="p-2 text-dark" href="portfolio"><span class="badge badge-info">Portfolio</span></a>
+    <a class="p-2 text-dark" href="contact"><span class="badge badge-light">Contact</span></a>
+  </nav>
+</div>
+</div>
+
+
+
+
+
+
+
+	<div class="jumbotron" style="text-align: center; background-image: url(/static/img/Project2.jpg); background-size: cover; background-repeat: no-repeat; min-height: 100%;">
+	<div class='jumbotron' style="background-color: rgba(0, 0, 0, 0.3);">
+		  <h1 style="color: white">///&nbsp&nbsp&nbsp&nbsp   We set the standard </h1>
+		  <br>
+		  <br>
+		  <h2 style="color: #FF4500">Delivering Projects in Ways that Can't be Duplicated</h2>
+
+	     <br><br>
+		  <p style="color: white">All the time, everytime.</p>
+
+		  <p>
+		  	<a class="btn btn-lg" href="service" role="button" style="color: #003366; background-color: #FF4500; color: white;">Group</a>&nbsp&nbsp&nbsp<a class="btn btn-lg" href="contact" role="button" style="color: black; background-color: white; ">Contact now</a>
+		  </p>
+	</div>
+	</div>
+
+
+<div class='container'>
+	<div class="row">
+		<div class="col">
+		<h2 style="text-align: center; font-family: 'Arial-Narrow';">Overview</h2>
+		
+		 <p style="text-align: justify;">Intellect Africa Group is a company based in Johannesburg, operating across all nine (9) provinces in South Africa, Southern Africa and beyond. Our main focus is the provision of home improvements, facilities management, road construction and IT services to a broad range of clients.</p>
+		</div>
+		<div class="col">
+		<h2 style="font-family: 'Arial-Narrow';">Four principles of success</h2>
+		
+		 	<li>Accountability</li>
+
+			<li>Integrity</li>
+
+			<li>Innovative</li>
+
+			<li>Teamwork</li>
+		</div>		
+</div>
+		<hr>
+
+<br>
+<div class="container">
+	<h1 style="text-align: center;">OUR ENTITIES</h1>
+	  <div class="row">
+    <div class="col">
+    </div>
+    <div class="col">
+      <i style="text-align: center;">Entities working towards one business strategy</i>
+    </div>
+    <div class="col">
+    </div>
+  </div>
+	
+</div>
+
+
+<div class="jumbotron" style="background-image: url(/static/img/wood.jpeg); background-size: cover; background-repeat: no-repeat; min-height: 100%;">
+  <div class="row">
+    <div class="col"><a href="http://www.sapaverstilers.co.za/"><img src="/static/img/SAPaversandTilers.png" alt="photo" class="img-thumbnail" style="height: 150px; width: 300px; align-self: center;"/></a>
+    </div>
+    <div class="col"><a href="http://www.mliloroadmarking.co.za"><img src="/static/img/MliloRoadMarkings.png" alt="photo" class="img-thumbnail" style="height: 150px; width: 300px; align-self: center;"/></a></div>
+    <div class="col"><img src="/static/img/IAGSoftwareDevelopers.png" alt="photo" class="img-thumbnail" style="height: 150px; width: 300px; align-self: center;"/></div>
+    <div class="col"><a href="http://www.iagcs.co.za/"><img src="/static/img/IAGConstructionSolutions.png" alt="photo" class="img-thumbnail" style="height: 150px; width: 300px; align-self: center;"/></a></div>
+  </div>
+
+</div>
+
+<br>
+
+
+<div class="container">
+	<h1 style="text-align: center;">OUR SERVICES</h1>
+	  <div class="row">
+    <div class="col">
+    </div>
+    <div class="col">
+      <i style="text-align: center;">Home Improvements | Facilities Management &nbsp&nbsp Road Construction | IT Services</i>
+    </div>
+    <div class="col">
+    </div>
+  </div>
+	
+</div>
+
+
+
+
+
+
+
+
+ <div class="album py-5 bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="card mb-6 shadow-sm">
+            <div class="card-body">
+
+             <div style="text-align: center;">
+              <ul><h4 style="color: #FF4500">Home Improvements</h4></ul>
+              <h6><ul>Painting and Waterproofing</ul></h6>
+              <h6><ul>General Maintenance</ul></h6>
+              <h6><ul>Paving and Tiling</ul></h6>
+              <h6><ul>Damp Proofing</ul></h6>
+              <h6><ul>Carpentry</ul></h6>
+              <h6><ul>Plastering</ul></h6>
+              <h6><ul>Plumbing</ul></h6>
+              <h6><ul>Flooring</ul></h6>
+
+            </div>
+              
+            </div>
+          </div>
+        </div>
+
+
+
+        <div class="col-md-6">
+          <div class="card mb-6 shadow-sm">
+            <div class="card-body">
+            <div style="text-align: center;">
+              <ul><h4 style="color: #FF4500">IT Services</h4></ul>
+              <h6><ul>Search Engine Optimisation</ul></h6>
+              <h6><ul>Social Media Optimisation</h6></ul>
+              <h6><ul>Software Development</h6></ul>
+              <h6><ul>Digital Marketing</h6></ul>
+              <ul><h6>Website Design</h6></ul>
+              <h6><ul>Data Analysis</h6></ul>
+              <ul><h6>Web Hosting</h6></ul>
+              <ul><h6>Mobile Apps</h6></ul>
+             </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+ <div class="album py-5 bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="card mb-6 shadow-sm">
+            <div class="card-body">
+
+             <div style="text-align: center;">
+              <ul><h4 style="color: #FF4500">Facilities Management</h4></ul>
+              <ul><h6>Maintenance of organisations’ building</h6></ul>
+              <ul><h6>Planned preventive maintenance</h6></ul>
+              <ul><h6>Fence Installation</h6></ul>
+              <ul><h6>Landscaping</h6></ul>
+              <ul><h6>Cleaning</h6></ul>
+
+            </div>
+              
+            </div>
+          </div>
+        </div>
+
+
+
+        <div class="col-md-6">
+          <div class="card mb-6 shadow-sm">
+            <div class="card-body">
+            <div style="text-align: center;">
+              <ul><h4 style="color: #FF4500">Road Construction</h4></ul>
+              <ul><h6>Asphalt Surfacing</h6></ul>
+              <ul><h6>Road Markings</h6></ul>
+              <ul><h6>Sandblasting</h6></ul>
+              <ul><h6>Traffic Signs</h6></ul>
+              <ul><h6>Civil Works</h6></ul>
+             </div>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+
+
+
+<div class="jumbotron" style="background-image: url(/static/img/Construction24.jpg); background-size: cover; background-repeat: no-repeat; min-height: 100%;">
+	<div class="row">
+		<div class="col">
+			<h3 style="color: white;">The Philosophy of Teamwork</h3>
+			<p style="color: white; text-align: justify;">As no entity can provide all services to all people, we have close working relationships with other companies in the same business sectors to ensure that where projects requires additional human capital, machinery and ideas; they are made available to meet our clients’ needs. This enabled us to meet our clients’ deadlines and tackle any contracts whether small or big. </p>
+			
+		</div>
+
+		<div class="col">
+			<h2 style="color: white;">The power of synergy</h2>
+			<i style="color: white;">2 plus 2 equals 5</i>
+			<br>
+			</br>
+			<a class="btn btn-lg" href="service" role="button" style="color: #003366; background-color: #FF4500; color: white;">Group</a>
+			
+		</div>
+	</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<footer>
+
+<div class="jumbotron" style="background-color: black;">
+  <div class="row">
+	  <div class="col-xs-6 col-sm-3">
+	  	<h2 style="color: white;">NEWSLETTER:</h2>
+
+<form method="POST" class="post-form" style="color: white"><input type="hidden" name="csrfmiddlewaretoken" value="OvctceZCTY8pNpKTDf298wEqSOSMJavEL3NKgAozd5voMPIYywsEXO5prXkRlzBh">
+      
+
+<div id="div_id_name" class="control-group"> <label for="id_name" class="control-label requiredField">
+                Name<span class="asteriskField">*</span> </label> <div class="controls"> <input type="text" name="name" class="textinput textInput" id="id_name" required maxlength="200"> </div> </div> <div id="div_id_email" class="control-group"> <label for="id_email" class="control-label requiredField">
+                Email<span class="asteriskField">*</span> </label> <div class="controls"> <input type="email" name="email" class="emailinput" id="id_email" required maxlength="50"> </div> </div>
+
+<button type="submit" class="save btn btn-primary" style="background-color: #003366; color: white;"> Submit </button>
+</form>				  	
+	  </div>
+	  <div class="col-xs-6 col-sm-3">
+	  	<h2 style="color: white;">OFFICE TIME</h2>
+	  	<h5 style="color: white;">Mon-Fri: 8.00am – 5.00pm<h5>
+
+
+
+	  </div>
+	  <div class="col-xs-6 col-sm-3" style="color: white;">
+	  	<h2 style="color: white;">QUICK LINKS</h2>
+	  	
+	  		<ul><a href="/" style="color: white;">Home</a></ul>
+	  		<ul><a href="about" style="color: white;">About</a></ul>
+	  		<ul><a href="service" style="color: white;">Group</a></ul>
+	  		<ul><a href="portfolio" style="color: white;">Portfolio</a></ul>	  		
+	  		<ul><a href="contact" style="color: white;">Contacts</a></ul>
+	  	
+	  </div>
+	  <div class="col-xs-6 col-sm-3" style="color: white;">
+	  	<h2 style="color: white;">CONTACT US: </h2>
+	  	
+	  		<ul><i class="fa fa-phone">&nbsp +27 11 083 7784</i></ul>
+	  		<ul><i>&nbsp +27 81 530 4931</i></ul>
+	  		<ul><i class="fa fa-envelope-o text-orange">&nbsp info@intellectafrica.group</i></ul>
+	  		<ul><i class="fa fa-map-marker">&nbsp Intellect Africa Group(Pty) Ltd<br>
+	  		Cedarwood House, 33 Ballyclare DR Ballywoods Office Park<br> Bryanston, Johannesburg,<br> 2191, South Africa</i></ul>
+
+	  	
+	  </div>
+</div>
+</div>
+
+
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-6 col-sm-4"><a href="index.html"  style=" font-family: arial,helvetica,sans-serif; font-size: 12px; color: rgb(72, 61, 139);">Designed and Developed by: <a href="https://twitter.com/RMaravanyika">IAG software developers</a> <p>All Rights Reserved | <a href="https://docs.google.com/document/d/1MYLUzT9-51-QsgItKl1XDY2ZTnz1MXf6yTinPTiala4/edit?usp=sharing">Privacy Policy</a></p>
+			</div>
+
+			<div class="col-xs-6 col-sm-4">
+			
+			</div>
+			
+				<div class="col-xs-6 col-sm-4 text-center">
+		
+				</div>
+
+		</div>
+	</div>
+</footer>
+</body>
+	<!--Start of Tawk.to Script-->
+	<script type="text/javascript">
+	var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+	(function(){
+	var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+	s1.async=true;
+	s1.src='https://embed.tawk.to/5d2f3a569b94cd38bbe7db95/default';
+	s1.charset='UTF-8';
+	s1.setAttribute('crossorigin','*');
+	s0.parentNode.insertBefore(s1,s0);
+	})();
+	</script>
+	<!--End of Tawk.to Script-->
+
+	<!-- WhatsHelp.io widget -->
+	<script type="text/javascript">
+	    (function () {
+	        var options = {
+	            email: "info@intellectafrica.group", // Email
+	            call_to_action: "EMAIL US", // Call to action
+	            position: "left", // Position may be 'right' or 'left'
+	        };
+	        var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
+	        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+	        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+	        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+	    })();
+	</script>
+	<!-- /WhatsHelp.io widget -->
+
+    <script src="/static/js/bootstrap.min.js"></script>
+</html>
